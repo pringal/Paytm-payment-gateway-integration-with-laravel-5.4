@@ -5,7 +5,7 @@ This tutorial is about the Paytm payment gateway integration with laravel 5.4 wi
 **Installation**
 -
 
-Step 1. clone package [git clone https://github.com/pringal/Paytm-payment-gateway-integration-with-laravel-5.4]
+Step 1. clone package [git clone https://github.com/pringal/Paytm-payment-gateway-integration-with-laravel-5.4.git]
 
 Step 2. install composer dependency [composer install]
 
@@ -15,7 +15,7 @@ Step 3. Follow this article <a href="https://codescompanion.com/paytm-payment-ga
 **Contribute**
 -
 
-Contributions are welcome and will be fully credited. We accept contributions via Pull Requests on [GitHub](https://github.com/pringal/Paytm-payment-gateway-integration-with-laravel-5.4).
+Contributions are welcome and will be fully credited. We accept contributions via Pull Requests on [GitHub](https://github.com/pringal/Paytm-payment-gateway-integration-with-laravel-5.4.git).
 
 **Loveware**
 -
